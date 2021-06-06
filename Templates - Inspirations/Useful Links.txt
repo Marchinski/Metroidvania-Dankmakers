@@ -1,0 +1,5 @@
+GitHub con game engines: https://gist.github.com/raysan5/909dc6cf33ed40223eb0dfe625c0de74
+
+Monogame engine: https://www.monogame.net/
+
+Hades development documentary: https://youtube.com/playlist?list=PL-THgg8QnvU4JEVov1tMlFThNYS92F8uC
